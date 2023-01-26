@@ -22,6 +22,7 @@ public class CreateOrg {
 		 WebDriver driver =  new ChromeDriver();
 		 driver.get(URL);
 		 driver.close();
+
 	}
 
 }
