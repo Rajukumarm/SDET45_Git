@@ -7,6 +7,6 @@ public class kk {
 	@Test
 	public void kfc() {
 		System.out.println("Create");
-		System.out.println("delet");
+
 	}
 }

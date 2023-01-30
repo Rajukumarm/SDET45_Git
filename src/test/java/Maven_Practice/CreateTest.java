@@ -21,6 +21,6 @@ public class CreateTest {
 		System.out.println("Kochi");
 		System.out.println("no groups");
 	}
-	system.out.println("close");
+
 
 }
